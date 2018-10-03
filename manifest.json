@@ -1,15 +1,15 @@
 {
   "name": "Mojave",
-  "version": "2.0",
+  "version": "2.1",
   "description": "Perfect theme for OSX Mojave",
   "manifest_version": 2,
   "theme": {
     "colors": {
-      "frame": [55, 55, 55],
+      "frame": [50, 50, 50],
       "frame_inactive": [40, 40, 40],
       "frame_incognito": [40, 40, 40],
       "frame_incognito_inactive": [40, 40, 40],
-      "background_tab": [55, 55, 55],
+      "background_tab": [50, 50, 50],
       "background_tab_inactive": [40, 40, 40],
       "background_tab_incognito": [40, 40, 40],
       "background_tab_incognito_inactive": [40, 40, 40],
@@ -21,7 +21,7 @@
       "tab_background_text_incognito": [160, 160, 160],
       "tab_background_text_incognito_inactive": [60, 60, 60],
       "bookmark_text": [255, 255, 255],
-      "ntp_background": [55, 55, 55],
+      "ntp_background": [50, 50, 50],
       "ntp_text": [255, 255, 255]
     },
     "tints": {
